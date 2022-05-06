@@ -1,7 +1,8 @@
 #Build by lone-wind
 #默认容器路径
 default_path () {
-    save_path=/mnt/mmcblk2p4
+#    save_path=/mnt/mmcblk2p4
+    save_path=/opt/docker
 }
 #功能选择
 work_choose () {
